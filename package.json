@@ -1,14 +1,14 @@
 {
-  "name": "one-dark-syntax",
+  "name": "one-dark-snooker-syntax",
   "theme": "syntax",
-  "version": "1.8.4",
-  "description": "A dark syntax theme",
+  "version": "0.1.0",
+  "description": "A dark syntax theme based on One Dark and a snooker table for Atom.",
   "keywords": [
     "dark",
-    "blue",
+    "green",
     "syntax"
   ],
-  "repository": "https://github.com/atom/one-dark-syntax",
+  "repository": "https://github.com/gabenespoli/one-dark-snooker-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
